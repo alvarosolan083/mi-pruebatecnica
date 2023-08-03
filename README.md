@@ -44,3 +44,36 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## Proyecto de Prueba Técnica 
+
+Este proyecto fue creado como parte de una prueba técnica. Es una librería de libros basada en la serie Juego de Tronos que permite a los usuarios ver detalles de cada libro, agregar libros a una lista de favoritos y buscar libros por nombre.
+
+### Cómo ejecutar la aplicación
+
+### Cómo ejecutar la aplicación
+
+1. Clona el repositorio en tu máquina local usando `git clone https://github.com/alvarosolan083/mi-pruebatecnica.git`.
+2. Navega hasta el directorio del proyecto usando `cd mi-pruebatecnica`.
+3. Instala las dependencias usando `npm install`.
+4. Inicia la aplicación con `npm start`.
+
+
+### Cómo ejecutar las pruebas
+
+1. Ejecuta `npm test` para ejecutar las pruebas.
+
+### Decisiones técnicas y arquitectónicas
+
+Este proyecto se construyó utilizando React, typeScript, javascript y Tailwind CSS. Se eligió React debido a su amplio soporte y sus excelentes capacidades para crear interfaces de usuario dinámicas y ricas. Tailwind CSS se utilizó para el estilo debido a su enfoque de utilidad y su capacidad para hacer que el desarrollo de CSS sea rápido y eficiente. Use el patrón Context para manejar el estado debido a su flexibilidad y a la facilidad con la que permite compartir el estado entre componentes y por ultimo storybooks.
+
+### Mejoras pendientes
+
+faltaron algunos estilos mas detallado
+
+### Qué harías de manera diferente si se le asignara más tiempo?
+Me gustari atrabajar en un pryecto mas grande aunque esto me sirvio mucho para poder repasar y revisar la documentacion
+
+
+
+
